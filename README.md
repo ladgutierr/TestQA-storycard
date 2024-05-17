@@ -1,20 +1,21 @@
 ### Test Sosti Card
 Test by Johanna Gutierrez
-###### Leadership and Startup Mindset:
+Here are my answers 
+#####  Leadership and Startup Mindset:
 In a startup environment, building a quality-focused culture begins with instilling a mindset that prioritizes quality at every stage of the development process. I would start by emphasizing the importance of quality in achieving our business goals and gaining customer trust. To do this, I would:
+
 Lead by example, demonstrating a commitment to quality in my own work and encouraging others to do the same.
 Foster open communication and collaboration within the team, encouraging everyone to voice their ideas and concerns regarding quality.
 Implement Agile methodologies such as Scrum or Kanban to promote iterative development and continuous improvement.
 Conduct regular training sessions and workshops on quality assurance best practices to educate the team and keep everyone aligned with our quality goals.
 Celebrate successes and milestones related to quality to reinforce its importance and motivate the team to maintain high standards.
-Communication and Stakeholder Management:
+##### Communication and Stakeholder Management:
 Effective communication with both technical and non-technical stakeholders is crucial for ensuring alignment and gathering feedback throughout the development process. My strategy would involve:
 Tailoring communication to suit the audience, using layman's terms when speaking to non-technical stakeholders while providing more detailed explanations for technical team members.
 Holding regular meetings with stakeholders to provide updates on the project's progress, discuss any issues or concerns, and gather feedback.
-Utilizing project management tools such as Jira or Asana to track tasks, bugs, and feature requests, ensuring transparency and accountability.
 Establishing clear channels for reporting and resolving issues, such as a dedicated Slack channel or email thread, to streamline communication and ensure nothing falls through the cracks.
 Actively listening to stakeholders' feedback and incorporating it into our development process to ensure that the application meets their requirements and expectations.
-###### # Quality Assurance Strategies:
+##### Quality Assurance Strategies:
 Creating a comprehensive quality assurance plan involves identifying potential risks, defining testing methodologies, and implementing tools and processes to ensure the application's reliability and performance. My approach would include:
 Conducting a thorough risk assessment to identify potential areas of concern, such as security vulnerabilities, performance bottlenecks, and compatibility issues.
 Developing a testing strategy that includes a mix of manual and automated testing techniques, tailored to the specific needs and requirements of the application.
